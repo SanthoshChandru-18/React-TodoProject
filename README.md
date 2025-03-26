@@ -1,1 +1,1 @@
-To show case my React.js skills developed a simple projects to note down tod list 
+To show case my React.js skills developed a simple projects to note down todo list 
